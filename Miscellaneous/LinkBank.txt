@@ -1,0 +1,7 @@
+Important or Useful Links for Reference: 
+
+1) https://grabcad.com/midlandswim-1 
+2) https://www.adafruit.com/ 
+3) https://www.analog.com/en/products/max30102.html#product-reference 
+4) https://smartchart.streamlit.app/#smartchart-patient-record 
+5) https://www.amazon.com/ref=nav_logo 
