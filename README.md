@@ -1,8 +1,8 @@
 # DMAC Research
 Deployable Medical Assistance Case
 
-Researcher: Wilson Dhalwani <br />
-Advisor: Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) <br />
+Researcher: Wilson Dhalwani & Giacomo Pugliese & Andrea Kim <br />
+Advisors: Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) & Mr. Oliver Dobrich (BCA) <br />
 Context: Future Health Professionals (HOSA) International Leadership Conference Medical Innovation <br />
 Projekt Name: Deployable Medical Assistance Case (Solar Powered) <br />
 Start Date: April 04, 2023 <br />
