@@ -2,7 +2,7 @@
 SmartChart Patient Charting App and the Deployable Medical Assistance Case
 
 Researcher: Wilson Dhalwani & Giacomo Pugliese <br />
-Advisors: Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) & Mr. Oliver Dobrich (BCA) <br />
+Advisors: Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) & Mr. Oliver Dobrich (BCA) & Ms. Clare Kennedy (BCA) <br />
 Context: Future Health Professionals (HOSA) International Leadership Conference Medical Innovation <br />
 Projekt Name: SmartChart & Deployable Medical Assistance Case <br />
 Start Date: April 04, 2023 <br />
